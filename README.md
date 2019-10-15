@@ -1,2 +1,2 @@
 # AnotherHtml
-It's another HTML
+It's a HTML code for Another Page.
